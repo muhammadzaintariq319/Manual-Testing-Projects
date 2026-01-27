@@ -33,7 +33,6 @@ Testing was performed on:
 - Input field behavior  
 - Authentication flow issues  
 
-Out of scope: product pages, checkout, payments, and other website modules.
 
 ---
 
